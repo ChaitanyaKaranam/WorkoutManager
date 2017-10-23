@@ -2,7 +2,7 @@ import React,{Component} from 'react';
 import PlaylistItem from './playlist-item';
 import YSearch from 'youtube-api-search';
 
-const API_KEY='AIzaSyBOeNp4te2MqduGcYWjIveCAMuvvzPtpKo';
+const API_KEY='';
 
 class Playlist extends Component{
 
