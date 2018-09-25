@@ -3,6 +3,8 @@
 
 React web application to manage your workout schedule
 
+[Demo](https://chaitanyakaranam.github.io/WorkoutManager/)
+
 ## Installing
 
 1) Clone this repository on your local machine.
